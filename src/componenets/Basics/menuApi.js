@@ -21,7 +21,7 @@ const Menu = [
     {
       id: 3,
       image: "images/corn.jpg",
-      name: "corn",
+      name: "Corn",
       category: "Breakfast",
       price: "₹10",
       description:
@@ -30,7 +30,7 @@ const Menu = [
     {
       id: 4,
       image: "../images/chola.jpg",
-      name: "chola",
+      name: "Chola",
       category: "Lunch",
       price: "₹50",
       description:
@@ -39,7 +39,7 @@ const Menu = [
     {
       id: 5,
       image: "../images/pizza.jpg",
-      name: "pizza",
+      name: "Pizza",
       category: "Evening",
       price: "₹80",
       description:
@@ -75,7 +75,7 @@ const Menu = [
     {
       id: 9,
       image: "../images/samosa.jpg",
-      name: "samaso",
+      name: "Samosa",
       category: "Evening",
       price: "₹10",
       description:
